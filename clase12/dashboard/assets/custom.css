@@ -1,0 +1,18 @@
+
+h2 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+.card-title {
+  font-size: 18px;
+}
+
+.card-body {
+  text-align: center;
+}
+
+.navbar {
+  box-shadow: 0px 2px 5px rgba(0,0,0,0.3);
+}
